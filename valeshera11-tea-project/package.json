@@ -1,0 +1,29 @@
+{
+    "name": "valeshera11teaproject",
+    "version": "1.0.2",
+    "description": "valeshera11 test project ",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/valeshera11/valeshera11teaproject.git"
+     },
+      "keywords": [
+      "valeshera11", 
+      "test",
+      "project"
+    ],
+    "dependencies": {
+      "express":"latest",
+      "ejs":"latest"
+    },
+    "author": "Valeshera11",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/valeshera11/valeshera11teaproject/issues"
+    },
+    "homepage": "https://github.com/Hvaleshera11/valeshera11teaproject#readme"
+  }
+  
